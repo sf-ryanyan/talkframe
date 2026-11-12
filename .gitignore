@@ -1,0 +1,6 @@
+talkframe-output/
+__pycache__/
+*.pyc
+*.mp4
+*.mov
+.DS_Store
